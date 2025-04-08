@@ -3,6 +3,8 @@ image:
   name: console-frontend
 host: ''
 tenantDomain: ''
+cluster:
+  domain: ''
 
 fasit:
   tenant:
